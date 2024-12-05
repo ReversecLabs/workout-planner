@@ -52,7 +52,7 @@ This is a sample companion application to a [blog post](https://labs.withsecure.
 
 ## Usage
 
-- Open your browser and navigate to \`http://localhost:8000\`.
+- Open your browser and navigate to `http://localhost:8000`.
 - Enter your query in the input box and press "Execute" to get a personalized workout plan or exercise information.
 
 ## Sample payloads
