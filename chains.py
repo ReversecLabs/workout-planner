@@ -109,7 +109,7 @@ summary_prompt = PromptTemplate(
     Workout plan:
     {workout_plan}
     
-    Just respond with the paragraph for the user, remember they can see the plan so you want to provide short tailored adivice and information to complement the plan, do not regurgitate the plan to them.
+    Just respond with the paragraph for the user, remember they can see the plan so you want to provide short tailored advice and information to complement the plan, do not regurgitate the plan to them.
     """,
     input_variables=["user_profile", "workout_plan"]
 )
