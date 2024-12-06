@@ -90,7 +90,7 @@ This project is licensed under the Apache License.
 
 ### Additional Information
 
-- **Blog Post**: [https://labs.withsecure.com/publications/multi-chain-prompt-injection](#) - Read the detailed blog post explaining the concepts and implementation in this repository.
+- **Blog Post**: [https://labs.withsecure.com/publications/multi-chain-prompt-injection](https://labs.withsecure.com/publications/multi-chain-prompt-injection) - Read the detailed blog post explaining the concepts and implementation in this repository.
 
 ---
 
