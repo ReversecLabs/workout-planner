@@ -1,7 +1,9 @@
 
 # Multi-Chain LLM Workout Planner
 
-This is a sample companion application to a [blog post](https://labs.withsecure.com/publications/multi-chain-prompt-injection) to showcase how prompt injection vulnerabilties can be tested in multi-chain LLM applications. This application uses the gpt4o from OpenAI, so you'll need an OpenAI API key to run this on your host.
+This is a sample companion application to a [blog post](https://labs.withsecure.com/publications/multi-chain-prompt-injection-attacks) to showcase how prompt injection vulnerabilties can be tested in multi-chain LLM applications. This application uses the gpt4o from OpenAI, so you'll need an OpenAI API key to run this on your host.
+
+A [Colab Notebook](https://colab.research.google.com/drive/1ILDQgwXe1RvdR8VsLq0VrJz9GYDsz9Mu?usp=sharing) is also available to experiment directly with the LLM chains contained in `chains.py`. 
 
 ![Workout Planner Demo](workout-planner-demo.gif)
 
@@ -90,7 +92,7 @@ This project is licensed under the Apache License.
 
 ### Additional Information
 
-- **Blog Post**: [https://labs.withsecure.com/publications/multi-chain-prompt-injection](https://labs.withsecure.com/publications/multi-chain-prompt-injection) - Read the detailed blog post explaining the concepts and implementation in this repository.
+- **Blog Post**: [https://labs.withsecure.com/publications/multi-chain-prompt-injection](https://labs.withsecure.com/publications/multi-chain-prompt-injection-attacks) - Read the detailed blog post explaining the concepts and implementation in this repository.
 
 ---
 
